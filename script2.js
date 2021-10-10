@@ -21,7 +21,7 @@ if (allScores !== null) {
 
     }
 }
-// Event listener to move to index page
+// Event listener to move to index html file page for questions
 goBack.addEventListener("click", function () {
     window.location.replace("index.html");
 });
